@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Suraj Pathade and I'm a Computter Engineer from Maharashtra</h2>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 ###
 
 <div align="center">
